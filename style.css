@@ -1,0 +1,72 @@
+body
+{
+    background-color: #ffd82b;
+}
+
+#header
+{
+    border-radius: 50px;
+    font-family: 'Fredoka One', cursive;
+    background-color: #2b8eff;
+}
+
+#test_1_note, #test_2_note, #test_3_note, #test_4_note, #test_5_note
+{
+    font-size: 17px;
+    background-color: white;
+    border: 3px dashed black;
+}
+
+#test_1_tooth_paste_img, #test_2_pillow_img, #test_3_comb_img, #test_4_school_book_img, #test_5_name_img
+{
+    border: 3px solid black;
+    border-radius: 25px;
+}
+
+#test_1_div, #test_2_div, #test_3_div, #test_4_div, #test_5_div
+{
+    height: 570px;
+    width: 580px;
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 10px 10px 22px 10px #525252;
+}
+
+#final_result
+{
+    color: white;
+    border-radius: 25px;
+    border: 3px solid #2be32b;
+    background-color: #4049ff;
+    font-size: 25px;
+    font-family: 'Teko', sans-serif;
+}
+
+#test_1_final_result
+{
+
+}
+
+#test_2_final_result
+{
+
+}
+
+#test_3_final_result
+{
+
+}
+
+#test_4_final_result
+{
+    
+}
+
+#test_5_final_result
+{
+    
+}
+
+///background-color: #2b8eff;
+border: 5px solid black;
+border-radius: 25px;
